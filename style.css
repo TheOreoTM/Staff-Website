@@ -103,6 +103,8 @@ a {
     text-decoration: none;
     letter-spacing: 1px;
     color: #1250c4;
+    font-weight: 600;
+    font-size: 0.8125rem;
 }
 
 ::-webkit-scrollbar {
