@@ -5,7 +5,7 @@
     --main-color: #ffffff;
     --main-hover-color: #afa6a6;
     --second-color: #1a1a1a;
-    --third-color: #2c2c2c;
+    --third-color: #272727;
     --nav-text-color: #ffffff;
     --nav-text-hover-color: #dbdbdba9;
     --heading-color: #ffffff;
@@ -53,8 +53,9 @@
 }
 
 mark {
-    background-color: #313131ad;
-    color: var(--small-text-color);
+    background-color: #312b2bd2;
+    color: #c5c5c5;
+    
 }
 
 .contact-text li {
@@ -554,7 +555,7 @@ main#questions {
 }
 
 .expanded {
-    background-color: var(--third-color);
+    background-color: #41414121;
     transition: all .3s ease-in-out;
 }
 
