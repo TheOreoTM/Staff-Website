@@ -58,6 +58,14 @@ mark {
     
 }
 
+.mention {
+    border-radius: 3px;
+    padding: 0 2px;
+    color: #dee0fc;
+    background-color: rgb(89,102,243,.3);
+    font-weight: 500;
+}
+
 .contact-text li {
     margin-left: 30px;
 
